@@ -26,4 +26,7 @@ This Snake game is a classic arcade game where the player controls a snake that 
 
 
 ## Screenshot
-![Screen Recording 2024-04-19 at 1 28 21 AM](https://github.com/taeleeswe/Snake_Game/assets/123449246/22449690-df7d-4ecd-a5a2-a4b10907282a)
+
+https://github.com/taeleeswe/Snake_Game/assets/123449246/8c3fba4c-8813-464c-8748-5bd34d1ef031
+
+
